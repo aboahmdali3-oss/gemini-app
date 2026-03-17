@@ -1,0 +1,6 @@
+{
+    "geminicodeassist.rules": "\ngoogle.geminicodeassist\n\n\n",
+    "geminicodeassist.updateChannel": "Default",
+    "geminicodeassist.verboseLogging": true,
+    "geminicodeassist.inlineSuggestions.nextEditPredictions": true
+}
